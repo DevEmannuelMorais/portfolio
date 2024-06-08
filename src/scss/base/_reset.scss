@@ -1,18 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
-
-html, body {
+html,
+body {
   height: 100%;
 }
+
 body {
-  margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
-  background: var(--black)
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background: var(--black);
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   font-size: 22px;
 }
 
-h1, h2, h3, a {
+h1,
+h2,
+h3,
+a {
   color: var(--white);
   text-decoration: none;
 }
