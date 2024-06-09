@@ -37,7 +37,7 @@
           },
           "configurations": {
             "production": {
-              "budgets": [
+              cle"budgets": [
                 {
                   "type": "initial",
                   "maximumWarning": "500kb",
